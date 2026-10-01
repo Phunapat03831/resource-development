@@ -1,0 +1,12 @@
+﻿Variable,Non-missing country-years,Missing country-years,Countries with data,First year with data,Last year with data
+total_resource_rents_pct_gdp,4535,239,214,2000,2021
+natural_gas_rents_pct_gdp,4294,480,201,2000,2021
+oil_rents_pct_gdp,4271,503,200,2000,2021
+coal_rents_pct_gdp,4266,508,200,2000,2021
+mineral_rents_pct_gdp,4553,221,214,2000,2021
+forest_rents_pct_gdp,4553,221,214,2000,2021
+gdp_growth_pct,4555,219,214,2000,2021
+gdp_per_capita_growth_pct,4555,219,214,2000,2021
+poverty_gap_3usd_pct,1703,3071,166,2000,2021
+gini_index,1703,3071,166,2000,2021
+political_stability_score_0_100,4240,534,206,2000,2021

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="430" viewBox="0 0 1080 430">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#182230}.title{font-size:25px;font-weight:700}.subtitle{font-size:14px;fill:#536273}.axis{font-size:13px}.small{font-size:12px;fill:#536273}.label{font-size:14px;font-weight:600}</style>
+<text x="70" y="42" class="title">Estimated association between resource rents and GDP per capita growth</text>
+<text x="70" y="68" class="subtitle">Two-way fixed effects; bars show 95% confidence intervals; standard errors clustered by country</text>
+<line x1="435.9" y1="110" x2="435.9" y2="340" stroke="#e7ebef" stroke-dasharray="none"/>
+<text x="435.9" y="363" text-anchor="middle" class="axis">-0.10</text>
+<line x1="500.5" y1="110" x2="500.5" y2="340" stroke="#e7ebef" stroke-dasharray="none"/>
+<text x="500.5" y="363" text-anchor="middle" class="axis">-0.05</text>
+<line x1="565.2" y1="110" x2="565.2" y2="340" stroke="#aab5c2" stroke-dasharray="4 4"/>
+<text x="565.2" y="363" text-anchor="middle" class="axis">0.00</text>
+<line x1="629.9" y1="110" x2="629.9" y2="340" stroke="#e7ebef" stroke-dasharray="none"/>
+<text x="629.9" y="363" text-anchor="middle" class="axis">0.05</text>
+<line x1="694.6" y1="110" x2="694.6" y2="340" stroke="#e7ebef" stroke-dasharray="none"/>
+<text x="694.6" y="363" text-anchor="middle" class="axis">0.10</text>
+<line x1="759.2" y1="110" x2="759.2" y2="340" stroke="#e7ebef" stroke-dasharray="none"/>
+<text x="759.2" y="363" text-anchor="middle" class="axis">0.15</text>
+<line x1="823.9" y1="110" x2="823.9" y2="340" stroke="#e7ebef" stroke-dasharray="none"/>
+<text x="823.9" y="363" text-anchor="middle" class="axis">0.20</text>
+<line x1="888.6" y1="110" x2="888.6" y2="340" stroke="#e7ebef" stroke-dasharray="none"/>
+<text x="888.6" y="363" text-anchor="middle" class="axis">0.25</text>
+<line x1="953.3" y1="110" x2="953.3" y2="340" stroke="#e7ebef" stroke-dasharray="none"/>
+<text x="953.3" y="363" text-anchor="middle" class="axis">0.30</text>
+<text x="392" y="143" text-anchor="end" class="label">Baseline, 2000–2021</text>
+<text x="392" y="161" text-anchor="end" class="small">n=4,460</text>
+<line x1="572.7" y1="138" x2="860.5" y2="138" stroke="#147a62" stroke-width="4"/>
+<line x1="572.7" y1="131" x2="572.7" y2="145" stroke="#147a62" stroke-width="2"/>
+<line x1="860.5" y1="131" x2="860.5" y2="145" stroke="#147a62" stroke-width="2"/>
+<circle cx="716.6" cy="138" r="7" fill="#147a62"/>
+<text x="392" y="210" text-anchor="end" class="label">Core controls, current-year rents</text>
+<text x="392" y="228" text-anchor="end" class="small">n=4,251</text>
+<line x1="623.3" y1="205" x2="915.0" y2="205" stroke="#147a62" stroke-width="4"/>
+<line x1="623.3" y1="198" x2="623.3" y2="212" stroke="#147a62" stroke-width="2"/>
+<line x1="915.0" y1="198" x2="915.0" y2="212" stroke="#147a62" stroke-width="2"/>
+<circle cx="769.2" cy="205" r="7" fill="#147a62"/>
+<text x="392" y="277" text-anchor="end" class="label">Core + investment + trade</text>
+<text x="392" y="295" text-anchor="end" class="small">n=3,503</text>
+<line x1="674.9" y1="272" x2="965.4" y2="272" stroke="#147a62" stroke-width="4"/>
+<line x1="674.9" y1="265" x2="674.9" y2="279" stroke="#147a62" stroke-width="2"/>
+<line x1="965.4" y1="265" x2="965.4" y2="279" stroke="#147a62" stroke-width="2"/>
+<circle cx="820.2" cy="272" r="7" fill="#147a62"/>
+<text x="392" y="344" text-anchor="end" class="label">Core controls, previous-year rents</text>
+<text x="392" y="362" text-anchor="end" class="small">n=4,243</text>
+<line x1="506.6" y1="339" x2="793.7" y2="339" stroke="#bd5b37" stroke-width="4"/>
+<line x1="506.6" y1="332" x2="506.6" y2="346" stroke="#bd5b37" stroke-width="2"/>
+<line x1="793.7" y1="332" x2="793.7" y2="346" stroke="#bd5b37" stroke-width="2"/>
+<circle cx="650.2" cy="339" r="7" fill="#bd5b37"/>
+<line x1="410" y1="340" x2="1005" y2="340" stroke="#526170"/>
+<text x="707.5" y="398" text-anchor="middle" class="axis">Coefficient: percentage-point change in GDP per capita growth per 1 pp of rents/GDP</text>
+<text x="70" y="395" class="small">Different samples/specifications are shown. Read the estimate and its interval, not just statistical significance.</text>
+</svg>

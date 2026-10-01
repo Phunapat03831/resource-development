@@ -1,0 +1,5 @@
+﻿Variable,Non-missing country-years,Missing country-years,Countries with data,First year with data,Last year with data
+gdp_per_capita_constant_2015_usd,4549,225,213,2000,2021
+population_growth_pct,4774,0,217,2000,2021
+gross_capital_formation_pct_gdp,3755,1019,185,2000,2021
+trade_pct_gdp,3919,855,193,2000,2021

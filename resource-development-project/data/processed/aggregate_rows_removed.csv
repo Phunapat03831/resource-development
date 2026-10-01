@@ -1,0 +1,529 @@
+﻿Country Name,Country Code,Series Name,Series Code
+Africa Eastern and Southern,AFE,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Africa Western and Central,AFW,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Arab World,ARB,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Caribbean small states,CSS,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Central Europe and the Baltics,CEB,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Early-demographic dividend,EAR,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+East Asia & Pacific,EAS,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+East Asia & Pacific (excluding high income),EAP,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+East Asia & Pacific (IDA & IBRD countries),TEA,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Euro area,EMU,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Europe & Central Asia,ECS,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Europe & Central Asia (excluding high income),ECA,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Europe & Central Asia (IDA & IBRD countries),TEC,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+European Union,EUU,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Heavily indebted poor countries (HIPC),HPC,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+High income,HIC,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+IBRD only,IBD,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+IDA & IBRD total,IBT,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+IDA blend,IDB,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+IDA only,IDX,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+IDA total,IDA,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Late-demographic dividend,LTE,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Latin America & Caribbean,LCN,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Latin America & Caribbean (excluding high income),LAC,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Latin America & the Caribbean (IDA & IBRD countries),TLA,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Least developed countries: UN classification,LDC,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Low & middle income,LMY,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Low income,LIC,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Lower middle income,LMC,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Middle income,MIC,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+North America,NAC,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Not classified,INX,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+OECD members,OED,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Other small states,OSS,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Pacific island small states,PSS,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Post-demographic dividend,PST,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Pre-demographic dividend,PRE,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Small states,SST,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+South Asia,SAS,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+South Asia (IDA & IBRD),TSA,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Sub-Saharan Africa,SSF,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Sub-Saharan Africa (excluding high income),SSA,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Sub-Saharan Africa (IDA & IBRD countries),TSS,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Upper middle income,UMC,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+World,WLD,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+Africa Eastern and Southern,AFE,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Africa Western and Central,AFW,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Arab World,ARB,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Caribbean small states,CSS,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Central Europe and the Baltics,CEB,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Early-demographic dividend,EAR,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+East Asia & Pacific,EAS,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+East Asia & Pacific (excluding high income),EAP,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+East Asia & Pacific (IDA & IBRD countries),TEA,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Euro area,EMU,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Europe & Central Asia,ECS,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Europe & Central Asia (excluding high income),ECA,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Europe & Central Asia (IDA & IBRD countries),TEC,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+European Union,EUU,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Heavily indebted poor countries (HIPC),HPC,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+High income,HIC,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+IBRD only,IBD,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+IDA & IBRD total,IBT,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+IDA blend,IDB,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+IDA only,IDX,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+IDA total,IDA,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Late-demographic dividend,LTE,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Latin America & Caribbean,LCN,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Latin America & Caribbean (excluding high income),LAC,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Latin America & the Caribbean (IDA & IBRD countries),TLA,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Least developed countries: UN classification,LDC,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Low & middle income,LMY,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Low income,LIC,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Lower middle income,LMC,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Middle income,MIC,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+North America,NAC,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Not classified,INX,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+OECD members,OED,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Other small states,OSS,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Pacific island small states,PSS,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Post-demographic dividend,PST,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Pre-demographic dividend,PRE,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Small states,SST,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+South Asia,SAS,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+South Asia (IDA & IBRD),TSA,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Sub-Saharan Africa,SSF,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Sub-Saharan Africa (excluding high income),SSA,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Sub-Saharan Africa (IDA & IBRD countries),TSS,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Upper middle income,UMC,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+World,WLD,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+Africa Eastern and Southern,AFE,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Africa Western and Central,AFW,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Arab World,ARB,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Caribbean small states,CSS,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Central Europe and the Baltics,CEB,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Early-demographic dividend,EAR,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+East Asia & Pacific,EAS,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+East Asia & Pacific (excluding high income),EAP,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+East Asia & Pacific (IDA & IBRD countries),TEA,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Euro area,EMU,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Europe & Central Asia,ECS,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Europe & Central Asia (excluding high income),ECA,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Europe & Central Asia (IDA & IBRD countries),TEC,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+European Union,EUU,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Heavily indebted poor countries (HIPC),HPC,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+High income,HIC,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+IBRD only,IBD,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+IDA & IBRD total,IBT,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+IDA blend,IDB,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+IDA only,IDX,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+IDA total,IDA,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Late-demographic dividend,LTE,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Latin America & Caribbean,LCN,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Latin America & Caribbean (excluding high income),LAC,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Latin America & the Caribbean (IDA & IBRD countries),TLA,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Least developed countries: UN classification,LDC,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Low & middle income,LMY,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Low income,LIC,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Lower middle income,LMC,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Middle income,MIC,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+North America,NAC,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Not classified,INX,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+OECD members,OED,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Other small states,OSS,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Pacific island small states,PSS,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Post-demographic dividend,PST,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Pre-demographic dividend,PRE,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Small states,SST,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+South Asia,SAS,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+South Asia (IDA & IBRD),TSA,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Sub-Saharan Africa,SSF,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Sub-Saharan Africa (excluding high income),SSA,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Sub-Saharan Africa (IDA & IBRD countries),TSS,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Upper middle income,UMC,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+World,WLD,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+Africa Eastern and Southern,AFE,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Africa Western and Central,AFW,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Arab World,ARB,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Caribbean small states,CSS,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Central Europe and the Baltics,CEB,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Early-demographic dividend,EAR,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+East Asia & Pacific,EAS,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+East Asia & Pacific (excluding high income),EAP,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+East Asia & Pacific (IDA & IBRD countries),TEA,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Euro area,EMU,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Europe & Central Asia,ECS,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Europe & Central Asia (excluding high income),ECA,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Europe & Central Asia (IDA & IBRD countries),TEC,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+European Union,EUU,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Heavily indebted poor countries (HIPC),HPC,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+High income,HIC,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+IBRD only,IBD,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+IDA & IBRD total,IBT,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+IDA blend,IDB,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+IDA only,IDX,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+IDA total,IDA,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Late-demographic dividend,LTE,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Latin America & Caribbean,LCN,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Latin America & Caribbean (excluding high income),LAC,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Latin America & the Caribbean (IDA & IBRD countries),TLA,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Least developed countries: UN classification,LDC,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Low & middle income,LMY,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Low income,LIC,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Lower middle income,LMC,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Middle income,MIC,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+North America,NAC,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Not classified,INX,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+OECD members,OED,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Other small states,OSS,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Pacific island small states,PSS,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Post-demographic dividend,PST,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Pre-demographic dividend,PRE,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Small states,SST,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+South Asia,SAS,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+South Asia (IDA & IBRD),TSA,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Sub-Saharan Africa,SSF,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Sub-Saharan Africa (excluding high income),SSA,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Sub-Saharan Africa (IDA & IBRD countries),TSS,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Upper middle income,UMC,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+World,WLD,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+Africa Eastern and Southern,AFE,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Africa Western and Central,AFW,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Arab World,ARB,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Caribbean small states,CSS,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Central Europe and the Baltics,CEB,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Early-demographic dividend,EAR,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+East Asia & Pacific,EAS,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+East Asia & Pacific (excluding high income),EAP,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+East Asia & Pacific (IDA & IBRD countries),TEA,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Euro area,EMU,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Europe & Central Asia,ECS,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Europe & Central Asia (excluding high income),ECA,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Europe & Central Asia (IDA & IBRD countries),TEC,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+European Union,EUU,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Heavily indebted poor countries (HIPC),HPC,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+High income,HIC,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+IBRD only,IBD,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+IDA & IBRD total,IBT,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+IDA blend,IDB,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+IDA only,IDX,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+IDA total,IDA,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Late-demographic dividend,LTE,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Latin America & Caribbean,LCN,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Latin America & Caribbean (excluding high income),LAC,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Latin America & the Caribbean (IDA & IBRD countries),TLA,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Least developed countries: UN classification,LDC,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Low & middle income,LMY,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Low income,LIC,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Lower middle income,LMC,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Middle income,MIC,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+North America,NAC,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Not classified,INX,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+OECD members,OED,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Other small states,OSS,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Pacific island small states,PSS,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Post-demographic dividend,PST,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Pre-demographic dividend,PRE,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Small states,SST,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+South Asia,SAS,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+South Asia (IDA & IBRD),TSA,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Sub-Saharan Africa,SSF,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Sub-Saharan Africa (excluding high income),SSA,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Sub-Saharan Africa (IDA & IBRD countries),TSS,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Upper middle income,UMC,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+World,WLD,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+Africa Eastern and Southern,AFE,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Africa Western and Central,AFW,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Arab World,ARB,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Caribbean small states,CSS,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Central Europe and the Baltics,CEB,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Early-demographic dividend,EAR,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+East Asia & Pacific,EAS,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+East Asia & Pacific (excluding high income),EAP,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+East Asia & Pacific (IDA & IBRD countries),TEA,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Euro area,EMU,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Europe & Central Asia,ECS,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Europe & Central Asia (excluding high income),ECA,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Europe & Central Asia (IDA & IBRD countries),TEC,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+European Union,EUU,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Heavily indebted poor countries (HIPC),HPC,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+High income,HIC,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+IBRD only,IBD,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+IDA & IBRD total,IBT,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+IDA blend,IDB,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+IDA only,IDX,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+IDA total,IDA,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Late-demographic dividend,LTE,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Latin America & Caribbean,LCN,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Latin America & Caribbean (excluding high income),LAC,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Latin America & the Caribbean (IDA & IBRD countries),TLA,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Least developed countries: UN classification,LDC,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Low & middle income,LMY,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Low income,LIC,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Lower middle income,LMC,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Middle income,MIC,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+North America,NAC,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Not classified,INX,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+OECD members,OED,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Other small states,OSS,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Pacific island small states,PSS,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Post-demographic dividend,PST,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Pre-demographic dividend,PRE,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Small states,SST,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+South Asia,SAS,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+South Asia (IDA & IBRD),TSA,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Sub-Saharan Africa,SSF,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Sub-Saharan Africa (excluding high income),SSA,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Sub-Saharan Africa (IDA & IBRD countries),TSS,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Upper middle income,UMC,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+World,WLD,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+Africa Eastern and Southern,AFE,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Africa Western and Central,AFW,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Arab World,ARB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Caribbean small states,CSS,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Central Europe and the Baltics,CEB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Early-demographic dividend,EAR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+East Asia & Pacific,EAS,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+East Asia & Pacific (excluding high income),EAP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+East Asia & Pacific (IDA & IBRD countries),TEA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Euro area,EMU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Europe & Central Asia,ECS,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Europe & Central Asia (excluding high income),ECA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Europe & Central Asia (IDA & IBRD countries),TEC,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+European Union,EUU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Heavily indebted poor countries (HIPC),HPC,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+High income,HIC,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+IBRD only,IBD,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+IDA & IBRD total,IBT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+IDA blend,IDB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+IDA only,IDX,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+IDA total,IDA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Late-demographic dividend,LTE,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Latin America & Caribbean,LCN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Latin America & Caribbean (excluding high income),LAC,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Latin America & the Caribbean (IDA & IBRD countries),TLA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Least developed countries: UN classification,LDC,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Low & middle income,LMY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Low income,LIC,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Lower middle income,LMC,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Middle income,MIC,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+North America,NAC,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Not classified,INX,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+OECD members,OED,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Other small states,OSS,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Pacific island small states,PSS,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Post-demographic dividend,PST,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Pre-demographic dividend,PRE,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Small states,SST,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+South Asia,SAS,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+South Asia (IDA & IBRD),TSA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Sub-Saharan Africa,SSF,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Sub-Saharan Africa (excluding high income),SSA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Sub-Saharan Africa (IDA & IBRD countries),TSS,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Upper middle income,UMC,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+World,WLD,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+Africa Eastern and Southern,AFE,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Africa Western and Central,AFW,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Arab World,ARB,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Caribbean small states,CSS,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Central Europe and the Baltics,CEB,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Early-demographic dividend,EAR,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+East Asia & Pacific,EAS,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+East Asia & Pacific (excluding high income),EAP,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+East Asia & Pacific (IDA & IBRD countries),TEA,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Euro area,EMU,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Europe & Central Asia,ECS,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Europe & Central Asia (excluding high income),ECA,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Europe & Central Asia (IDA & IBRD countries),TEC,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+European Union,EUU,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Heavily indebted poor countries (HIPC),HPC,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+High income,HIC,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+IBRD only,IBD,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+IDA & IBRD total,IBT,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+IDA blend,IDB,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+IDA only,IDX,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+IDA total,IDA,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Late-demographic dividend,LTE,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Latin America & Caribbean,LCN,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Latin America & Caribbean (excluding high income),LAC,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Latin America & the Caribbean (IDA & IBRD countries),TLA,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Least developed countries: UN classification,LDC,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Low & middle income,LMY,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Low income,LIC,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Lower middle income,LMC,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Middle income,MIC,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+North America,NAC,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Not classified,INX,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+OECD members,OED,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Other small states,OSS,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Pacific island small states,PSS,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Post-demographic dividend,PST,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Pre-demographic dividend,PRE,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Small states,SST,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+South Asia,SAS,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+South Asia (IDA & IBRD),TSA,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Sub-Saharan Africa,SSF,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Sub-Saharan Africa (excluding high income),SSA,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Sub-Saharan Africa (IDA & IBRD countries),TSS,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Upper middle income,UMC,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+World,WLD,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+Africa Eastern and Southern,AFE,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Africa Western and Central,AFW,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Arab World,ARB,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Caribbean small states,CSS,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Central Europe and the Baltics,CEB,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Early-demographic dividend,EAR,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+East Asia & Pacific,EAS,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+East Asia & Pacific (excluding high income),EAP,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+East Asia & Pacific (IDA & IBRD countries),TEA,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Euro area,EMU,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Europe & Central Asia,ECS,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Europe & Central Asia (excluding high income),ECA,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Europe & Central Asia (IDA & IBRD countries),TEC,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+European Union,EUU,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Heavily indebted poor countries (HIPC),HPC,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+High income,HIC,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+IBRD only,IBD,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+IDA & IBRD total,IBT,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+IDA blend,IDB,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+IDA only,IDX,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+IDA total,IDA,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Late-demographic dividend,LTE,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Latin America & Caribbean,LCN,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Latin America & Caribbean (excluding high income),LAC,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Latin America & the Caribbean (IDA & IBRD countries),TLA,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Least developed countries: UN classification,LDC,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Low & middle income,LMY,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Low income,LIC,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Lower middle income,LMC,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Middle income,MIC,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+North America,NAC,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Not classified,INX,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+OECD members,OED,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Other small states,OSS,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Pacific island small states,PSS,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Post-demographic dividend,PST,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Pre-demographic dividend,PRE,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Small states,SST,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+South Asia,SAS,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+South Asia (IDA & IBRD),TSA,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Sub-Saharan Africa,SSF,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Sub-Saharan Africa (excluding high income),SSA,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Sub-Saharan Africa (IDA & IBRD countries),TSS,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Upper middle income,UMC,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+World,WLD,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS
+Africa Eastern and Southern,AFE,Gini index,SI.POV.GINI
+Africa Western and Central,AFW,Gini index,SI.POV.GINI
+Arab World,ARB,Gini index,SI.POV.GINI
+Caribbean small states,CSS,Gini index,SI.POV.GINI
+Central Europe and the Baltics,CEB,Gini index,SI.POV.GINI
+Early-demographic dividend,EAR,Gini index,SI.POV.GINI
+East Asia & Pacific,EAS,Gini index,SI.POV.GINI
+East Asia & Pacific (excluding high income),EAP,Gini index,SI.POV.GINI
+East Asia & Pacific (IDA & IBRD countries),TEA,Gini index,SI.POV.GINI
+Euro area,EMU,Gini index,SI.POV.GINI
+Europe & Central Asia,ECS,Gini index,SI.POV.GINI
+Europe & Central Asia (excluding high income),ECA,Gini index,SI.POV.GINI
+Europe & Central Asia (IDA & IBRD countries),TEC,Gini index,SI.POV.GINI
+European Union,EUU,Gini index,SI.POV.GINI
+Heavily indebted poor countries (HIPC),HPC,Gini index,SI.POV.GINI
+High income,HIC,Gini index,SI.POV.GINI
+IBRD only,IBD,Gini index,SI.POV.GINI
+IDA & IBRD total,IBT,Gini index,SI.POV.GINI
+IDA blend,IDB,Gini index,SI.POV.GINI
+IDA only,IDX,Gini index,SI.POV.GINI
+IDA total,IDA,Gini index,SI.POV.GINI
+Late-demographic dividend,LTE,Gini index,SI.POV.GINI
+Latin America & Caribbean,LCN,Gini index,SI.POV.GINI
+Latin America & Caribbean (excluding high income),LAC,Gini index,SI.POV.GINI
+Latin America & the Caribbean (IDA & IBRD countries),TLA,Gini index,SI.POV.GINI
+Least developed countries: UN classification,LDC,Gini index,SI.POV.GINI
+Low & middle income,LMY,Gini index,SI.POV.GINI
+Low income,LIC,Gini index,SI.POV.GINI
+Lower middle income,LMC,Gini index,SI.POV.GINI
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,Gini index,SI.POV.GINI
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,Gini index,SI.POV.GINI
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,Gini index,SI.POV.GINI
+Middle income,MIC,Gini index,SI.POV.GINI
+North America,NAC,Gini index,SI.POV.GINI
+Not classified,INX,Gini index,SI.POV.GINI
+OECD members,OED,Gini index,SI.POV.GINI
+Other small states,OSS,Gini index,SI.POV.GINI
+Pacific island small states,PSS,Gini index,SI.POV.GINI
+Post-demographic dividend,PST,Gini index,SI.POV.GINI
+Pre-demographic dividend,PRE,Gini index,SI.POV.GINI
+Small states,SST,Gini index,SI.POV.GINI
+South Asia,SAS,Gini index,SI.POV.GINI
+South Asia (IDA & IBRD),TSA,Gini index,SI.POV.GINI
+Sub-Saharan Africa,SSF,Gini index,SI.POV.GINI
+Sub-Saharan Africa (excluding high income),SSA,Gini index,SI.POV.GINI
+Sub-Saharan Africa (IDA & IBRD countries),TSS,Gini index,SI.POV.GINI
+Upper middle income,UMC,Gini index,SI.POV.GINI
+World,WLD,Gini index,SI.POV.GINI
+Africa Eastern and Southern,AFE,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Africa Western and Central,AFW,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Arab World,ARB,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Caribbean small states,CSS,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Central Europe and the Baltics,CEB,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Early-demographic dividend,EAR,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+East Asia & Pacific,EAS,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+East Asia & Pacific (excluding high income),EAP,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+East Asia & Pacific (IDA & IBRD countries),TEA,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Euro area,EMU,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Europe & Central Asia,ECS,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Europe & Central Asia (excluding high income),ECA,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Europe & Central Asia (IDA & IBRD countries),TEC,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+European Union,EUU,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Heavily indebted poor countries (HIPC),HPC,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+High income,HIC,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+IBRD only,IBD,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+IDA & IBRD total,IBT,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+IDA blend,IDB,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+IDA only,IDX,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+IDA total,IDA,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Late-demographic dividend,LTE,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Latin America & Caribbean,LCN,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Latin America & Caribbean (excluding high income),LAC,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Latin America & the Caribbean (IDA & IBRD countries),TLA,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Least developed countries: UN classification,LDC,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Low & middle income,LMY,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Low income,LIC,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Lower middle income,LMC,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Middle income,MIC,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+North America,NAC,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Not classified,INX,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+OECD members,OED,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Other small states,OSS,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Pacific island small states,PSS,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Post-demographic dividend,PST,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Pre-demographic dividend,PRE,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Small states,SST,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+South Asia,SAS,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+South Asia (IDA & IBRD),TSA,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Sub-Saharan Africa,SSF,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Sub-Saharan Africa (excluding high income),SSA,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Sub-Saharan Africa (IDA & IBRD countries),TSS,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+Upper middle income,UMC,Political Stability - Governance score (0-100),GOV_WGI_PV_SC
+World,WLD,Political Stability - Governance score (0-100),GOV_WGI_PV_SC

@@ -1,0 +1,37 @@
+ผลหลัก: GDP per capita growth กับ Total natural resources rents
+Country and year fixed effects; standard errors clustered by country.
+โมเดลร่วมสมัยและโมเดล lag เปรียบเทียบกันบนตัวอย่างเดียวกัน.
+ผลเป็นความสัมพันธ์ทางสถิติ ไม่ใช่หลักฐานยืนยันเหตุและผล.
+
+Same-year rents: full available sample
+Formula: gdp_per_capita_growth_pct ~ total_resource_rents_pct_gdp + C(Q("Country Code")) + C(Year)
+Observations: 4,460
+Countries: 212
+Years: 22
+Coefficient: 0.117063
+Clustered standard error: 0.056757
+p-value: 0.0391582
+95% confidence interval: [0.005821, 0.228306]
+R-squared including fixed effects: 0.272178
+
+Same-year rents: common lag-comparison sample
+Formula: gdp_per_capita_growth_pct ~ total_resource_rents_pct_gdp + C(Q("Country Code")) + C(Year)
+Observations: 4,256
+Countries: 212
+Years: 21
+Coefficient: 0.149966
+Clustered standard error: 0.047111
+p-value: 0.00145619
+95% confidence interval: [0.057631, 0.242302]
+R-squared including fixed effects: 0.286187
+
+Previous-year rents: common lag-comparison sample
+Formula: gdp_per_capita_growth_pct ~ resource_rents_pct_gdp_previous_year + C(Q("Country Code")) + C(Year)
+Observations: 4,256
+Countries: 212
+Years: 21
+Coefficient: 0.045129
+Clustered standard error: 0.061195
+p-value: 0.460835
+95% confidence interval: [-0.074810, 0.165068]
+R-squared including fixed effects: 0.276501

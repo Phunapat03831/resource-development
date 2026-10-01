@@ -1,0 +1,13 @@
+GDP per capita growth regressions with country and year fixed effects
+Standard errors are clustered by country.
+Coefficients are within-country associations conditional on included variables.
+They are not causal effects.
+Investment and trade are treated as supplementary expanded controls because they may also be channels through which rents relate to growth.
+
+Baseline on core-control sample | total_resource_rents_pct_gdp: b=0.14728, SE=0.04613, p=0.001411, 95% CI=[0.05686, 0.23770], n=4,251, countries=210, years=2001–2021
+Core controls: lagged log GDP per capita + population growth | total_resource_rents_pct_gdp: b=0.15767, SE=0.05753, p=0.0061333, 95% CI=[0.04491, 0.27044], n=4,251, countries=210, years=2001–2021
+Baseline on expanded-control sample | total_resource_rents_pct_gdp: b=0.17615, SE=0.04916, p=0.00033914, 95% CI=[0.07980, 0.27250], n=3,503, countries=183, years=2001–2021
+Core controls on expanded-control sample | total_resource_rents_pct_gdp: b=0.20964, SE=0.06200, p=0.00072179, 95% CI=[0.08811, 0.33116], n=3,503, countries=183, years=2001–2021
+Expanded controls: core + investment + trade | total_resource_rents_pct_gdp: b=0.19710, SE=0.05729, p=0.00058115, 95% CI=[0.08481, 0.30940], n=3,503, countries=183, years=2001–2021
+Same-year rents on lag-comparison sample | total_resource_rents_pct_gdp: b=0.16315, SE=0.05794, p=0.0048656, 95% CI=[0.04958, 0.27671], n=4,243, countries=210, years=2001–2021
+Previous-year rents on lag-comparison sample | resource_rents_pct_gdp_previous_year: b=0.06569, SE=0.05662, p=0.24599, 95% CI=[-0.04529, 0.17667], n=4,243, countries=210, years=2001–2021

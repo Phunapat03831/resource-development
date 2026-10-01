@@ -1,0 +1,4 @@
+﻿model,predictor,coefficient,clustered_standard_error,p_value,ci_95_low,ci_95_high,observations,countries,years,r_squared_including_fixed_effects,country_fixed_effects,year_fixed_effects,standard_errors_clustered_by
+Same-year rents: full available sample,total_resource_rents_pct_gdp,0.11706328261347576,0.056757403154771104,0.039158249644872876,0.005820816574104354,0.22830574865284717,4460,212,22,0.2721784898675973,True,True,Country Code
+Same-year rents: common lag-comparison sample,total_resource_rents_pct_gdp,0.1499664916822859,0.04711075205270576,0.0014561910637880607,0.057631114374386186,0.24230186899018563,4256,212,21,0.28618724100575355,True,True,Country Code
+Previous-year rents: common lag-comparison sample,resource_rents_pct_gdp_previous_year,0.045129342871880584,0.06119454961046712,0.46083460978180735,-0.07480977041478457,0.16506845615854573,4256,212,21,0.27650052731370334,True,True,Country Code
