@@ -1,0 +1,38 @@
+MATCHED-PAIRS ANALYSIS: GDP PER CAPITA GROWTH
+
+Input: data\processed\resource_panel_with_controls.csv
+Panel years: 2000–2021
+Units in source panel: 217
+Valid country-years with both variables: 4,460
+Units with no country-year having both variables: 5
+Country/economy pairs analyzed: 189
+
+Method
+- Within each country/economy, years with observed rents and outcome were ranked by that unit's own resource rents (% GDP).
+- Low-rent years are at or below the 33rd percentile; high-rent years are at or above the 67th percentile. The middle is omitted.
+- At least 3 valid years in each group were required. Units with identical low/high cutoffs were excluded.
+- For each unit, difference = mean growth in high-rent years minus mean growth in low-rent years.
+- Main test: two-sided paired t-test of whether the average country-level difference is zero; alpha = 0.05.
+- Sensitivity check: two-sided Wilcoxon signed-rank test.
+- Missing values were not imputed. Each country/economy receives equal weight in the paired test.
+
+Results
+Mean growth in low-rent years: 1.4159%
+Mean growth in high-rent years: 2.6417%
+Mean paired difference (high minus low): 1.2258 percentage points
+Median paired difference: 0.6775 percentage points
+95% confidence interval: [0.6729, 1.7788]
+Paired t: t(188) = 4.3732, p = 2.02541e-05
+Cohen's dz: 0.3181
+Wilcoxon signed-rank sensitivity: statistic = 5668.0000, p = 1.10867e-05
+High-rent mean was greater in 121 pairs; lower in 68; tied in 0.
+Decision at 5%: reject H0.
+
+Exclusions
+- No country-year with both variables: 5
+- Too few valid years overall: 1
+- Low/high rent cutoffs not distinct: 22
+- Fewer than 3 years in either group: 0
+
+Interpretation and limits
+This compares each country/economy's average growth in its own relatively high-rent years with its own relatively low-rent years. It does not estimate the change in growth for a one-percentage-point increase in rents. Pairing accounts for stable differences between countries, but this test does not control for common calendar-year shocks or other time-varying factors. It is an association, not evidence that resource rents cause growth to change. The Wilcoxon result is a sensitivity check and tests a rank-based paired difference, not the same mean-difference parameter as the t-test.
