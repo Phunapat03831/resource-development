@@ -16,5 +16,8 @@
 - matched_pairs_country_year_groups.csv — ปีที่ถูกจัดเป็นกลุ่มต่ำ/กลาง/สูง
 - matched_pairs_report.txt — สรุปวิธีและผลเป็นข้อความ
 - matched_pairs_growth_difference.svg — กราฟผลต่างรายประเทศ
+- matched_pairs_period_comparison.csv — เปรียบเทียบช่วงหลัก 2000–2021 กับช่วงข้อมูลร่วมที่ยาวที่สุด
+- matched_pairs_period_country_results.csv — ผลรายประเทศสำหรับสองช่วงวิเคราะห์
+- matched_pairs_period_sensitivity_report.txt — รายงานจำนวนข้อมูล สถิติทดสอบ และข้อจำกัดของการตรวจช่วงยาว
 
 ตัวอย่างรายงานและไฟล์จาก regression เดิมยังเก็บไว้ใน results/ เพื่อบันทึกการวิเคราะห์ระยะสำรวจ ไม่นับเป็นผลหลักฉบับปัจจุบัน

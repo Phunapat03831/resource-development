@@ -1,0 +1,42 @@
+MATCHED-PAIRS PERIOD SENSITIVITY CHECK
+
+Input: WDI download with year columns 1960-2025.
+Variables: Total natural resources rents (% GDP) and GDP per capita growth (annual %).
+Country/economy whitelist size: 217.
+Complete joint-data overlap in the file: 1970-2021.
+
+Method held constant: country-specific linear P33/P67 cutoffs; middle years omitted;
+at least 3 complete years in each rent group; one high-minus-low mean difference per unit.
+Each unit has equal weight. The requested 1960-2025 interval uses only years with both indicators.
+
+2000-2021 (main-period replication)
+- Complete country-years: 4,460
+- Units with joint data: 212
+- Paired units analyzed: 189
+- Units without joint data: 5
+- Excluded: fewer than 6 years=1; identical cutoffs=22; fewer than 3 years in a group=0
+- Mean growth, low rents: 1.4159%
+- Mean growth, high rents: 2.6417%
+- Mean difference (high minus low): 1.2258 percentage points
+- 95% CI: [0.6729, 1.7788]
+- Paired t: t(188) = 4.3732, p = 2.02541e-05
+- Wilcoxon signed-rank: W = 5668, p = 1.10867e-05
+
+1960-2025 requested (joint-data overlap)
+- Complete country-years: 9,021
+- Units with joint data: 212
+- Paired units analyzed: 189
+- Units without joint data: 5
+- Excluded: fewer than 6 years=0; identical cutoffs=23; fewer than 3 years in a group=0
+- Mean growth, low rents: 1.5188%
+- Mean growth, high rents: 2.4913%
+- Mean difference (high minus low): 0.9725 percentage points
+- 95% CI: [0.4322, 1.5128]
+- Paired t: t(188) = 3.5509, p = 0.000485192
+- Wilcoxon signed-rank: W = 6257, p = 0.000303072
+
+Interpretation
+The longer download adds country-year observations but does not increase the paired-test N when the same eligible units remain. The two windows overlap, so the sensitivity results are not independent replications. The test compares averages from different calendar years and does not control for year-specific shocks or other time-varying factors; results are associations, not causal effects.
+
+Missing values were not imputed. The requested 1960-2025 interval has no joint observations before the first observed overlap or after the final observed overlap.
+
