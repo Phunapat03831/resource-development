@@ -6,6 +6,16 @@
 
 คำถามนี้เปรียบเทียบประเทศกับตัวเองในคนละช่วงปี ไม่ได้เปรียบเทียบประเทศทรัพยากรมากกับประเทศทรัพยากรน้อย
 
+### คำถามย่อยสำหรับนำเสนอ
+
+1. ภายในหน่วยเศรษฐกิจเดิม ช่วง rents สูงกับต่ำมีการเติบโตต่อหัวต่างกันหรือไม่?
+2. ผลต่างเฉลี่ยสูงลบต่ำมีทิศทางและขนาดเท่าใด?
+3. ผลต่างเป็นบวกในกี่หน่วย และเป็นลบในกี่หน่วย?
+4. ผลจาก Wilcoxon signed-rank สอดคล้องกับ paired t-test หรือไม่?
+5. เมื่อใช้ช่วงข้อมูลยาวขึ้น (1970–2021) ผลยังเป็นไปในทิศทางเดิมหรือไม่?
+
+คำถาม 1–3 เป็นผลหลักของช่วง 2000–2021; คำถาม 4–5 เป็นการตรวจสอบเสริม.
+
 ## 2. ข้อมูล
 
 ใช้ข้อมูล World Bank WDI สองตัวแปร:
@@ -71,6 +81,7 @@
 
 ## 9. ไฟล์ที่ควรเปิดประกอบ
 
+- [สไลด์นำเสนอภาษาไทย (PowerPoint)](resource-rents-gdp-growth-presentation.pptx)
 - ตารางผลรวม: [matched_pairs_period_comparison.csv](../data/processed/results/matched_pairs_period_comparison.csv)
 - ผลรายประเทศ: [matched_pairs_period_country_results.csv](../data/processed/results/matched_pairs_period_country_results.csv)
 - แหล่งและนิยามตัวแปร: [DATA_DICTIONARY.md](DATA_DICTIONARY.md)

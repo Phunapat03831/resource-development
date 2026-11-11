@@ -8,6 +8,8 @@
 
 อ่าน [สรุปสำหรับนำเสนอ](docs/PRESENTATION_BRIEF.md) ก่อนใช้ตัวเลข และดู [คำอธิบายข้อมูล](docs/DATA_DICTIONARY.md) เพื่ออธิบายแหล่งที่มาและความหมายตัวแปร
 
+ดาวน์โหลด [สไลด์นำเสนอภาษาไทย (PowerPoint)](docs/resource-rents-gdp-growth-presentation.pptx)
+
 ## ทำซ้ำการวิเคราะห์
 
 จากโฟลเดอร์หลักของ repository ให้เปิด PowerShell แล้วรัน:

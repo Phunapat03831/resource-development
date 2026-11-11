@@ -21,6 +21,7 @@
 
 ## เปิดดูข้อมูลนำเสนอ
 
+- [สไลด์นำเสนอภาษาไทย (PowerPoint)](resource-development-project/docs/resource-rents-gdp-growth-presentation.pptx)
 - [สรุปวิธี ผล ข้อจำกัด และแนวแบ่งการนำเสนอ 4 คน](resource-development-project/docs/PRESENTATION_BRIEF.md)
 - [คำอธิบายตัวแปรและแหล่งข้อมูล](resource-development-project/docs/DATA_DICTIONARY.md)
 - [วิธีติดตั้งและทำซ้ำการวิเคราะห์](resource-development-project/README.md)
